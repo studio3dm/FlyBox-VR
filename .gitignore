@@ -1,0 +1,18 @@
+Binaries
+DerivedDataCache
+Intermediate/Build
+Intermediate/Config
+Intermediate/ReimportCache
+Intermediate/CachedAssetRegistry.bin
+Intermediate/TargetInfo.json
+Intermediate/Android
+Saved
+ipch
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+# *.sln
+*.suo
+*.xcodeproj
+*.xcworkspace

@@ -1,0 +1,1 @@
+../../../FlyBox2/FlyBox2.uproject  /Game/MAP/FlyBoxVR -Messaging -SessionId=6102A55049286113814DC2A4F29BCD45 -SessionOwner="SERVER4" -SessionName="Launch On Device" -iterative
