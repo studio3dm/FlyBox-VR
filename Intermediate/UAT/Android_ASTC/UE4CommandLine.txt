@@ -1,1 +1,1 @@
-../../../FlyBox2/FlyBox2.uproject  /Game/MAP/FlyBoxVR -Messaging -SessionId=6102A55049286113814DC2A4F29BCD45 -SessionOwner="SERVER4" -SessionName="Launch On Device" -iterative
+../../../FlyBox2/FlyBox2.uproject  /Game/MAP/Stratosphere -Messaging -SessionId=AD7E6AEA4D5A8BE6059623B764EC8941 -SessionOwner="lario" -SessionName="Launch On Device" -iterative
