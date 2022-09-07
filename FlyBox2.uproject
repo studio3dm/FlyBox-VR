@@ -39,6 +39,11 @@
 		{
 			"Name": "DatasmithFBXImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "HandTracking",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0cd259454def4b97bb73f1c0c77b1a69"
 		}
 	],
 	"TargetPlatforms": [
